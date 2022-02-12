@@ -3,7 +3,7 @@
 ### 小小标题
 This is a **bold** *italic* text sample.
 
-this is a [hyperlink](https://github.com/).
+this is a [hyperlink](more.md).
 
 ---
 
@@ -28,3 +28,8 @@ this is a [hyperlink](https://github.com/).
 from datetime import datetime
 print('Hello world!')
 ```
+
+```powershell
+$env:Path
+```
+<img src=''/>
